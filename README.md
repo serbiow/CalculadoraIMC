@@ -75,4 +75,4 @@ Template utilizado: `blank` (sem TypeScript)
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por Sérgio Reis
